@@ -1,2 +1,2 @@
-MOVIES
-APPLICATIONS
+#!/bin/bash
+ls
